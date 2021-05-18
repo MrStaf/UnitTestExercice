@@ -1,0 +1,7 @@
+C:\Users\Mr_Staf\Documents\code\GitUnitTestDemo\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe.config
+C:\Users\Mr_Staf\Documents\code\GitUnitTestDemo\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe
+C:\Users\Mr_Staf\Documents\code\GitUnitTestDemo\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.pdb
+C:\Users\Mr_Staf\Documents\code\GitUnitTestDemo\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csprojAssemblyReference.cache
+C:\Users\Mr_Staf\Documents\code\GitUnitTestDemo\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mr_Staf\Documents\code\GitUnitTestDemo\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.exe
+C:\Users\Mr_Staf\Documents\code\GitUnitTestDemo\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.pdb
